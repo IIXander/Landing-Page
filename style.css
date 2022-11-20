@@ -1,0 +1,177 @@
+body {
+    color: white;
+    font-size: 20px;
+    background-color: rgb(204, 204, 199);
+    margin: 0;
+    text-align: center;
+}
+
+body ::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+/* 4:46 https://www.youtube.com/watch?v=FEmysQARWFU&list=PL4-IK0AVhVjPxtv9SVKQZm_huHpDEgLz0&ab_channel=KevinPowell */
+
+div {
+    
+}
+
+.top-section {
+    background-color: rgba(255, 166, 0, 0.664):
+    background: pink;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto; 
+}
+
+
+.logo {
+    float: left;
+}
+
+.navigation {
+   float: right;
+   color: rgb(189, 216, 210);
+   text
+   text-decoration: none;
+}
+
+
+nav ul {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
+
+
+nav li {
+    color: rgb(189, 216, 210);
+    text-decoration-style: none;
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: auto;
+}
+/* Pourquoi ici le text-decoration ne sapplique pas? */
+
+nav div {
+}
+
+.unav1.unav2 {
+    float: left;
+}
+
+.unav1 {
+    margin-left: 20px;
+    width: 250px;
+    height: 100px;
+    background: #3882F6;
+}
+
+/* je ne reussi pas a mettre limage a droite */
+
+.unav2 {
+    margin-left: 20px;
+    width: 500px;
+    height: 100px;
+    margin-top: none;
+    background: #3882F6;
+}
+
+.unav3 {
+    margin-left: 20px;
+    width: 10%;
+    height: 30px;
+    background: #3882F6;
+    border-radius: 8px;
+    margin-bottom: 150px;
+}
+
+img {
+    height: 300px;
+    margin-left: 620px;
+  }
+
+.box1 {
+    background: #1F2937;
+    padding-top: 1px;
+    padding-bottom: 60px;
+}
+
+.box2 {
+    color: black;
+    background: #ffffff;
+    padding-top: 1px;
+    padding-bottom: 60px;
+}
+
+.box3 {
+    color: black;
+    padding-top: 1px;
+    padding-bottom: 60px;
+    font-size: 30px;
+    font-style: italic;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.box4 {
+    color: black;
+    background: #ffffff;
+    padding-top: 1px;
+    padding-bottom: 60px;
+}
+
+.box5 {
+    background: #1F2937;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    margin-left: 0px;
+}
+
+.ubox1 {
+    background: white;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    float: left;
+    border: 5px solid #3882F6;
+    border-radius: 12px;
+}
+
+.ubox2 {
+    background: white;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    float: left;
+    border: 5px solid #3882F6;
+    border-radius: 12px;
+}
+
+.ubox3 {
+    background: white;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    float: left;
+    border: 5px solid #3882F6;
+    border-radius: 12px;
+}
+
+.ubox4 {
+    background: white;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    float: left;
+    border: 5px solid #3882F6;
+    border-radius: 12px;
+    
+}
+
